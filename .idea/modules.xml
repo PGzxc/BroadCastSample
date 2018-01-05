@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BroadCastSample.iml" filepath="$PROJECT_DIR$/BroadCastSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/boradcastdemo2/boradcastdemo2.iml" filepath="$PROJECT_DIR$/boradcastdemo2/boradcastdemo2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastboot/broadcastboot.iml" filepath="$PROJECT_DIR$/broadcastboot/broadcastboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastboot2/broadcastboot2.iml" filepath="$PROJECT_DIR$/broadcastboot2/broadcastboot2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/broadcastdemo1/broadcastdemo1.iml" filepath="$PROJECT_DIR$/broadcastdemo1/broadcastdemo1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stickbroadcast/stickbroadcast.iml" filepath="$PROJECT_DIR$/stickbroadcast/stickbroadcast.iml" />
+    </modules>
+  </component>
+</project>
